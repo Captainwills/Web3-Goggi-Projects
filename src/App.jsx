@@ -8,8 +8,9 @@ function App() {
 const handleClick=()=>{
   setShowForm(!showForm)
 }
+
   return (
-    <>
+    <div>
       <div className='Header'>
         <h1>GOGGi WALLET</h1>
       </div>
@@ -48,8 +49,8 @@ const handleClick=()=>{
       <p className="read-documentation"> Read-doc.
   
     </p>
-    </>
-  )
+    
+    </div> )
 }
 
 export default App

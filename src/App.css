@@ -48,7 +48,7 @@ button{
 
 }
 
-label{
+.label{
   
 }
 
@@ -112,4 +112,5 @@ label{
 .read-documentation{
   text-align: center;
   height:60px
+
 }
